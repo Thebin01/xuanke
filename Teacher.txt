@@ -1,0 +1,13 @@
+101	Zhao	Gong	1
+99999	1,2
+102	Liu	SI_zheng	0
+103	Wen	Gong	0
+104	Li	Gong	0
+105	Hu	Gong	0
+106	Zhang	Gong	0
+107	Ling	Gong	0
+108	Zhong	Gong	0
+109	Ling	Gong	1
+2001	1
+
+-1
